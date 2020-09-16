@@ -3,7 +3,7 @@
 @section('title', $page->title)
 
 @section('content')
-    <h1>{{ $page->title }}</h1>
+    <h1>{{ $page->title }} - will update this week (16/9/2020)</h1>
 
     @if ($page->image)
         <img src="{{ $page->image }}" style="object-fit: cover; height: 250px; width: 100%;">

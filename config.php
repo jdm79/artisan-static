@@ -6,7 +6,7 @@ return [
     'site' => [
         'title' => 'James Malvern',
         'description' => 'Personal website for James Malvern.',
-        'image' => 'avatar.png',
+        'image' => 'avatar.jpg',
     ],
     'owner' => [
         'name' => 'James Malvern',
