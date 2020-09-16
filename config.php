@@ -4,14 +4,14 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
-        'image' => 'default-share.png',
+        'title' => 'James Malvern',
+        'description' => 'Personal website for James Malvern.',
+        'image' => 'avatar.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'James Malvern',
+        'twitter' => 'https://twitter.com/james_malvern',
+        'github' => 'https://github.com/jdm79',
     ],
     'services' => [
         'cmsVersion' => '2.10.52',
