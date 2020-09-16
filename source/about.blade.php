@@ -5,7 +5,15 @@
 @section('content')
     <h1>About</h1>
 
-    <p></p>
+    <p>Currently living and working in Berlin, Germany. 
+    Recent interactive journalism MA graduate from the City University of London, focusing
+    on data, health and tech. International background with experience living and working
+    in tech, education and financial institutions in Australia, Germany, France and the UK. Regular Journocoder
+    at the News Building (London Bridge). Past contributor to Hackney Post and
+    Interhacktives.com.</p>
+
+    <p>Currently working with D3.js and <a href="https://www.statistikportal.de/en">Statistik Portal</a> using Python and R. 
+    Always looking for new ways of using the Twitter API.</p>
 
 
     <h1>Interests</h1>
@@ -16,9 +24,11 @@
       <li>Python</li>
       <li>Javascript</li>
       <li>R</li>
+      <li>Health</li>
+      <li>Tech</li>
     </ul>
 
-    <h2>Links:</h2>
+    <h2>Personal links:</h2>
 
     <ul>
         <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">My personal Twitter account</a></li>
@@ -35,6 +45,7 @@
         <a href="https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html">
         Twitter's showcase of Bots</a> that share information 
         and make conversations more fun using the Twitter API)</li>
+        
         <li><a href="https://uk-headline-checker.herokuapp.com" 
         target="_blank">UK Headline Checker:</a> a web-scraping project I made in a week 
         using Python Flask, Beautiful Soup on the back React. This came from an idea to make an in-house app 
