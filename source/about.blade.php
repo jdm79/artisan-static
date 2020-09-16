@@ -15,9 +15,11 @@
 
     <p>Currently living and working in Berlin, Germany (and have no intention of going anywhere soon).</p>
     
-    <p>Recent interactive journalism MA graduate from City University, London, focusing
+    <p>Recent interactive journalism MA graduate from <a href="https://www.city.ac.uk/about/schools/arts-social-sciences/journalism">
+    City University, London</a>, focusing
     on data, health and tech. International background with experience living and working
-    in tech, education and financial institutions in Australia, Germany, France and the UK. Regular Journocoder
+    in tech, education and financial institutions in Australia, Germany, France and the UK. Regular <a href="https://journocoders.com/">
+    Journocoder</a>
     at the News Building (London Bridge). Past contributor to Hackney Post and
     Interhacktives.com.</p>
 
@@ -25,7 +27,7 @@
     Most recently I helped organise the 2020 CityJS 5-day virtual JavaScript conference on the Remo platform
     with speakers from five different continents.</p>
 
-    <p>Currently working with D3.js and <a href="https://www.statistikportal.de/en">Statistik Portal</a> using Python and R. 
+    <p>Currently working with <a href="https://d3js.org/">D3.js</a> and <a href="https://www.statistikportal.de/en">Statistik Portal</a> using Python and R. 
     Always looking for new ways of finding stories in data, as well as playing with the Twitter API.</p>
 
 
@@ -42,7 +44,7 @@
       <li>Tech</li>
     </ul>
 
-    <h1 id="links">Personal links:</h2>
+    <h1 id="links">Personal links</h2>
 
     <ul>
         <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">My personal Twitter account</a></li>
@@ -50,7 +52,7 @@
         <li><a href="https://github.com/{{ $page->owner->github }}" target="_blank">GitHub</a></li>
     </ul>
 
-    <h1 id="projects">Projects I made during my MA at City University Journalism department 2019/2020:</h2>
+    <h1 id="projects">Some of my MA projects (2019/2020)</h2>
 
     <ul>
         <li><a href="https://twitter.com/HansardLord" target="_blank">Hansard House of Lords Twitter bot:</a>
