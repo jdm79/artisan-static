@@ -5,12 +5,17 @@
 @section('content')
     <h1>About</h1>
 
-    <p>Currently living and working in Berlin, Germany. 
-    Recent interactive journalism MA graduate from the City University of London, focusing
+    <p>Currently living and working in Berlin, Germany</p>
+    
+    <p>Recent interactive journalism MA graduate from the City University of London, focusing
     on data, health and tech. International background with experience living and working
     in tech, education and financial institutions in Australia, Germany, France and the UK. Regular Journocoder
     at the News Building (London Bridge). Past contributor to Hackney Post and
     Interhacktives.com.</p>
+
+    <p>Now a remote member of the <a href="https://cityjsconf.org/">CityJSConf</a> team based in London. 
+    Most recently I helped organise the 2020 CityJS virtual 5-day conference on the Remo platform
+    with speakers from five different continents.</p>
 
     <p>Currently working with D3.js and <a href="https://www.statistikportal.de/en">Statistik Portal</a> using Python and R. 
     Always looking for new ways of using the Twitter API.</p>
@@ -45,7 +50,7 @@
         <a href="https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html">
         Twitter's showcase of Bots</a> that share information 
         and make conversations more fun using the Twitter API)</li>
-        
+
         <li><a href="https://uk-headline-checker.herokuapp.com" 
         target="_blank">UK Headline Checker:</a> a web-scraping project I made in a week 
         using Python Flask, Beautiful Soup on the back React. This came from an idea to make an in-house app 
