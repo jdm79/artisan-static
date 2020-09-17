@@ -1,7 +1,6 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>James Malvern</h1>
     <p><i class="fas fa-map-marker-alt"></i> Berlin, Germany</p>
 
     <p>Data, words and coding | @cityjournalism @cityjsconf. Owner of Twitter bots, including 
