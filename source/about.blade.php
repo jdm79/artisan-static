@@ -67,6 +67,8 @@
         Twitter's showcase of Bots</a> that share information 
         and make conversations more fun using the Twitter API)</li>
 
+        <br>
+
         <li><a href="https://uk-headline-checker.herokuapp.com" 
         target="_blank">UK Headline Checker:</a> a web-scraping project I made in a week 
         using Python Flask and Beautiful Soup for my API, and React.js for the front end. 
