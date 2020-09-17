@@ -2,7 +2,7 @@
 
 @section('content')
     <h1>James Malvern</h1>
-    <p>Berlin, Germany</p>
+    <p><i class="fas fa-map-marker-alt"></i>Berlin, Germany</p>
 
     <p>Data, words and coding | @cityjournalism @cityjsconf. Owner of Twitter bots, including 
     <a href="https://twitter.com/HansardLord">@QuotesTap</a> and <a href="https://twitter.com/HansardLord">@HansardLord</a>.

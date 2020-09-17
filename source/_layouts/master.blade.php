@@ -13,7 +13,7 @@
     @include('_partials.head.favicon')
     @include('_partials.head.meta')
     @include('_partials.cms.identity_widget')
-
+    <script src="https://kit.fontawesome.com/de84b68abd.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
