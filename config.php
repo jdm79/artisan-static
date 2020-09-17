@@ -10,8 +10,8 @@ return [
     ],
     'owner' => [
         'name' => 'James Malvern',
-        'twitter' => 'https://twitter.com/james_malvern',
-        'github' => 'https://github.com/jdm79',
+        'twitter' => 'james_malvern',
+        'github' => 'jdm79',
     ],
     'services' => [
         'cmsVersion' => '2.10.52',

@@ -3,26 +3,12 @@
 @section('title', 'Contact')
 
 @section('content')
-    <h1>Contact</h1>
 
-    <form action="https://formcarry.com/s/{{ $page->services->formcarry }}" method="post">
-        <div>
-            <label for="sender">Name</label><br>
-            <input type="text" name="sender" id="sender" required>
-        </div>
+    <ul>
+        <li><a href = "mailto: james.malvern@city.ac.uk">Email me here</a></li>
+        <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">My personal Twitter account</a></li>
+        <li><a href="https://www.linkedin.com/in/james-malvern/" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/{{ $page->owner->github }}" target="_blank">GitHub</a></li>
+    </ul>
 
-        <div>
-            <label for="email">Email</label><br>
-            <input type="email" name="email" id="email" required>
-        </div>
-
-        <div>
-            <label for="message">Message</label><br>
-            <textarea name="message" id="message" required></textarea>
-        </div>
-
-        <input type="text" name="_gotcha" style="display: none;">
-
-        <input type="submit" name="submit" value="Send">
-    </form>
 @endsection
