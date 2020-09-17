@@ -25,7 +25,7 @@
                     <li><a href="/">Home</a></li>
                     <li><a href="/posts">Posts</a></li>
                     <li><a href="/about">About</a></li>
-                    <li><a href="/contact">Contact</a></li>
+                    <!-- <li><a href="/contact">Contact</a></li> -->
                 </ul>
             </nav>
         </header>
@@ -39,9 +39,9 @@
         <footer>
             <small>
                 &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
-                <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Maintained by Ranie Santos &nbsp;&bull;&nbsp;
-                <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>.
+                <!-- <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp; -->
+                <!-- Te by Ranie Santos &nbsp;&bull;&nbsp;
+                <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>. -->
             </small>
         </footer>
     </section>

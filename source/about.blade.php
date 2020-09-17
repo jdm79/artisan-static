@@ -26,11 +26,11 @@
     <p>Currently working with <a href="https://d3js.org/">D3.js</a> and <a href="https://www.statistikportal.de/en">Statistik Portal</a> using Python and R. 
     Always looking for new ways of finding stories in data, as well as playing with the Twitter API.</p>
 
-    <ul>
+    <!-- <ul>
       <li><a href="#interests">Interests</a></li>
       <li><a href="#links">Personal links</a></li>
       <li><a href="#projects">Projects</a></li>
-    </ul>
+    </ul> -->
 
     <h2 id="interests">Interests</h2>
     <ul>
