@@ -8,22 +8,26 @@
 
     <p>Currently living and working in Berlin, Germany (and have no intention of going anywhere soon).</p>
     
-    <p>Recent interactive journalism MA graduate from <a href="https://www.city.ac.uk/about/schools/arts-social-sciences/journalism">
+    <p>Recent (2020) <a href="https://www.city.ac.uk/study/courses/postgraduate/interactive-journalism">
+    Interactive Journalism MA</a> graduate from <a href="https://www.city.ac.uk/about/schools/arts-social-sciences/journalism">
     City University, London</a>, focusing
     on data, health and tech. International background with experience living and working
     in tech, education and financial institutions in Australia, Germany, France and the UK.</p>
     
     <p>Regular <a href="https://journocoders.com/">
     Journocoder</a>
-    at the News Building (London Bridge). Past contributor to Hackney Post and
-    Interhacktives.com. Worked at ITV News, on the <i>Tonight</i> programme and <i>On Assignment</i>,
+    at the News Building (London Bridge) as well as <a href="https://www.hackshackers.com/">Hacks/Hackers</a>.
+     Past contributor to <a href="http://hackneypost.co.uk/">Hackney Post</a> and
+    <a href="https://www.interhacktives.com/">Interhacktives.com</a>. 
+    Worked at ITV News, on the <i>Tonight</i> programme and <i>On Assignment</i>,
      as well as the <i>Meghan & Harry: A Royal Crisis?</i> documentary.</p>
 
     <p>Now a remote member of the <a href="https://cityjsconf.org/">CityJSConf</a> team based in London. 
     Most recently I helped organise the 2020 CityJS 5-day virtual JavaScript conference on the Remo platform
     with speakers from five different continents.</p>
 
-    <p>Currently working with <a href="https://d3js.org/">D3.js</a> and <a href="https://www.statistikportal.de/en">Statistik Portal</a> using Python and R. 
+    <p>Currently working with <a href="https://d3js.org/">D3.js</a> and 
+    <a href="https://www.statistikportal.de/en">Statistik Portal</a> using Python and R. 
     Always looking for new ways of finding stories in data, as well as playing with the Twitter API.</p>
 
     <!-- <ul>
@@ -65,8 +69,15 @@
 
         <li><a href="https://uk-headline-checker.herokuapp.com" 
         target="_blank">UK Headline Checker:</a> a web-scraping project I made in a week 
-        using Python Flask, Beautiful Soup on the back React. This came from an idea to make an in-house app 
-        for a newsroom which would display the latest headlines from the main news websites in the UK and Eire.
-        Once loaded, it updates automatically using React.js and Ajax. (This app uses a free Heroku dyno, so will take a while to wake up initially)</li>
+        using Python Flask and Beautiful Soup for my API, and React.js for the front end. 
+        Hosted for free on <a href="https://www.heroku.com/">Heroku</a>.
+         This came from an idea to make an in-house app 
+        for a newsroom which would display on a large monitor the latest headlines from the main news websites in the UK and Eire.
+        In this way, not only can we see how different publications spin the same story, or choose different headlines,
+        we can also see the same stories spread across the screen as something big happens.
+        Once loaded, it updates automatically using React.js and Ajax. No refreshing of the screen is required.
+        It is scraping the headlines every five minutes,
+        and serving them to the front end.
+        (This app uses a free Heroku dyno, so will take a while to wake up initially)</li>
     </ul>
 @endsection
