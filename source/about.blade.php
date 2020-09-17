@@ -4,24 +4,20 @@
 
 @section('content')
 
-    <h1>Contents</h1>
-    <ul>
-      <li><a href="#about">About</a></li>
-      <li><a href="#interests">Interests</a></li>
-      <li><a href="#links">Personal links</a></li>
-      <li><a href="#projects">Projects</a></li>
-    </ul>
-    <h1 id="about">About</h1>
+   
 
     <p>Currently living and working in Berlin, Germany (and have no intention of going anywhere soon).</p>
     
     <p>Recent interactive journalism MA graduate from <a href="https://www.city.ac.uk/about/schools/arts-social-sciences/journalism">
     City University, London</a>, focusing
     on data, health and tech. International background with experience living and working
-    in tech, education and financial institutions in Australia, Germany, France and the UK. Regular <a href="https://journocoders.com/">
+    in tech, education and financial institutions in Australia, Germany, France and the UK.</p>
+    
+    <p>Regular <a href="https://journocoders.com/">
     Journocoder</a>
     at the News Building (London Bridge). Past contributor to Hackney Post and
-    Interhacktives.com.</p>
+    Interhacktives.com. Worked at ITV News, on the <i>Tonight</i> programme and <i>On Assignment</i>,
+     as well as the <i>Meghan & Harry: A Royal Crisis?</i> documentary.</p>
 
     <p>Now a remote member of the <a href="https://cityjsconf.org/">CityJSConf</a> team based in London. 
     Most recently I helped organise the 2020 CityJS 5-day virtual JavaScript conference on the Remo platform
@@ -30,8 +26,13 @@
     <p>Currently working with <a href="https://d3js.org/">D3.js</a> and <a href="https://www.statistikportal.de/en">Statistik Portal</a> using Python and R. 
     Always looking for new ways of finding stories in data, as well as playing with the Twitter API.</p>
 
+    <ul>
+      <li><a href="#interests">Interests</a></li>
+      <li><a href="#links">Personal links</a></li>
+      <li><a href="#projects">Projects</a></li>
+    </ul>
 
-    <h1 id="interests">Interests</h1>
+    <h2 id="interests">Interests</h2>
     <ul>
       <li>Data journalism</li>
       <li>Twitter bots</li>
@@ -44,7 +45,7 @@
       <li>Tech</li>
     </ul>
 
-    <h1 id="links">Personal links</h2>
+    <h2 id="links">Personal links</h2>
 
     <ul>
         <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">My personal Twitter account</a></li>
@@ -52,7 +53,7 @@
         <li><a href="https://github.com/{{ $page->owner->github }}" target="_blank">GitHub</a></li>
     </ul>
 
-    <h1 id="projects">Some of my MA projects (2019/2020)</h2>
+    <h2 id="projects">Some of my MA projects (2019/2020)</h2>
 
     <ul>
         <li><a href="https://twitter.com/HansardLord" target="_blank">Hansard House of Lords Twitter bot:</a>
