@@ -32,7 +32,7 @@
 
     <p>Currently working with <a href="https://d3js.org/">D3.js</a> and 
     <a href="https://www.statistikportal.de/en">Statistik Portal</a> using Python and R. 
-    Always looking for new ways of finding stories in data, as well as playing with the Twitter API.</p>
+    Always looking for new ways of finding stories in data and displaying them, as well as playing with the Twitter API.</p>
 
     <!-- <ul>
       <li><a href="#interests">Interests</a></li>

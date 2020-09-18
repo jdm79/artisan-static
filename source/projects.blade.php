@@ -11,7 +11,19 @@
         This bot was chosen to be part of 
         <a href="https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html">
         Twitter's showcase of Bots</a> that share information 
-        and make conversations more fun using the Twitter API)</li>
+        and make conversations more fun using the Twitter API.</li>
+
+        <br>
+
+        <li><a href="https://twitter.com/covid_19_stats" target="_blank">Covid-19 Twitter bot:</a>
+        I made this bot in March 2020, as the pandemic really took hold in the UK. It was as much just for me, 
+        to keep an eye on how the virus was growing. It scrapes <a href="https://www.worldometers.info/">Worldometer</a> - 
+        <a href="https://edition.cnn.com/interactive/2020/05/world/worldometer-coronavirus-mystery/">
+        a website which has subsequently come under scrutiny over exactly where it gets its stats from</a> - 
+        and once a day it tweets both the global totals
+        and the UK totals. Seeing as I was always on Twitter, having a bot like this made it simpler for me to 
+        check on the daily jump in cases and deaths. I will be replacing the source of the stats.
+        </li>
 
         <br>
 
