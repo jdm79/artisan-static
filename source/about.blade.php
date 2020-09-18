@@ -11,7 +11,7 @@
     <p>I am a recent (2020) <a href="https://www.city.ac.uk/study/courses/postgraduate/interactive-journalism">
     Interactive Journalism MA</a> graduate from <a href="https://www.city.ac.uk/about/schools/arts-social-sciences/journalism">
     City University, London</a>, focusing
-    on data, health and tech. International background with experience living and working
+    on data, health and tech. International background with experience working
     in tech, education and financial institutions in Australia, Germany, France and the UK.</p>
     
     <p>Regular attendee at <a href="https://journocoders.com/">
