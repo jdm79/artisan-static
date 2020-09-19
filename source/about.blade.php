@@ -5,10 +5,17 @@
 @section('content')
 
     <img src="https://res.cloudinary.com/dlrwbckxi/image/upload/v1600525472/james_daniel_malvern.png"
-     alt="Girl in a jacket" width="250" height="300" class="center">
+     alt="James Malvern" width="250" height="300" class="center">
 
     <br>
     <hr>
+
+    <ul>
+        <li><a href = "mailto: james.malvern@city.ac.uk">Email me here</a></li>
+        <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">My personal Twitter account</a></li>
+        <li><a href="https://www.linkedin.com/in/james-malvern/" target="_blank">LinkedIn</a></li>
+        <li><a href="https://github.com/{{ $page->owner->github }}" target="_blank">GitHub</a></li>
+    </ul>
 
     <p>Currently living and working in Berlin, Germany (with no intention of going anywhere else).</p>
     
