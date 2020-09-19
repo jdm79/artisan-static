@@ -21,7 +21,7 @@ persuade the IRS to give a daily newspaper 501(c)(3) status.
 
 ##Non-profit status
 
-Which means that after almost 150 years the SLT is now a nonprofit: a public charity, and an educational organisation to be precise. By not changing their business model whilst applying for 501(c)(3) status, and being successful, they have opened the door for other newspapers to follow suit without having to give up ad revenue or forgo subscriptions in the process.
+This means that after almost 150 years the SLT is now a nonprofit: a public charity, and an educational organisation to be precise. By not changing their business model whilst applying for 501(c)(3) status, and being successful, they have opened the door for other newspapers to follow suit without having to give up ad revenue or forgo subscriptions in the process.
 
 “We didn’t know if we’d be approved or not,” Nelson told me in the offices of the SLT on the west side of the city center. “We didn’t know what they’d come back to us with. The fact that they just said: ‘Go for it!’ was kind of shocking to everyone watching this.” 
 
