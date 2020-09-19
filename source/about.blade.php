@@ -4,7 +4,11 @@
 
 @section('content')
 
-   
+    <img src="https://res.cloudinary.com/dlrwbckxi/image/upload/v1600525472/james_daniel_malvern.png"
+     alt="Girl in a jacket" width="250" height="300" class="center">
+
+    <br>
+    <hr>
 
     <p>Currently living and working in Berlin, Germany (with no intention of going anywhere else).</p>
     

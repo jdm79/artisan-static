@@ -50,5 +50,6 @@
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     @includeWhen($page->production, '_partials.analytics')
     @include('_partials.cms.identity_redirect')
+    <script id="dsq-count-scr" src="//https-jamesmalvern-com-1.disqus.com/count.js" async></script>
 </body>
 </html>
