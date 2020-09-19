@@ -7,7 +7,7 @@
     <h2>{{ $page->subtitle }}</h2>
 
     @if ($page->image)
-        <img src="{{ $page->image }}" style="object-fit: cover; height: 100%; width: 100%; ">
+        <img src="{{ $page->image }}" style="object-fit: cover; height: 100%; width: 100%; margin-bottom: 50px ">
         <p class="description">{{ $page->description }}</p>
 
     @endif
