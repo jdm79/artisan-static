@@ -27,8 +27,9 @@
         <br>
 
         <li><a href="https://blm-random-quotes.netlify.app/" target="_blank">Black Lives Matter quote bot: </a>
-        a different quote automatically every 60 seconds. You can also click the button to get a new one. Adding more 
-        quotes to the array. Made with React.js.
+        this app displays a different quote automatically every 60 seconds. 
+        You can also click the button to get a new one. I will be adding more 
+        quotes to the array soon. Made with React.js.
         </li>
 
         <br>
