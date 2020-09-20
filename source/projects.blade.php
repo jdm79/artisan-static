@@ -26,6 +26,13 @@
 
         <br>
 
+        <li><a href="https://blm-random-quotes.netlify.app/" target="_blank">Black Lives Matter quote bot: </a>
+        a different quote automatically every 60 seconds. You can also click the button to get a new one. Adding more 
+        quotes to the array. Made with React.js.
+        </li>
+
+        <br>
+
         <li><a href="https://uk-headline-checker.herokuapp.com" 
         target="_blank">UK Headline Checker:</a> my <i>Advanced Coding and Data</i> project for my MA. 
         A web-scraping journalism tool I built in a week 
