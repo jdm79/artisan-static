@@ -17,7 +17,7 @@
         <li><a href="https://github.com/{{ $page->owner->github }}" target="_blank">GitHub</a></li>
     </ul>
 
-    <p>Currently living and working in Berlin, Germany (with no intention of going anywhere else).</p>
+    <p>Currently living and working in Berlin, Germany.</p>
     
     <p>I am a recent (2020) <a href="https://www.city.ac.uk/study/courses/postgraduate/interactive-journalism">
     Interactive Journalism MA</a> graduate from <a href="https://www.city.ac.uk/about/schools/arts-social-sciences/journalism">
