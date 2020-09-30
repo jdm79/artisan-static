@@ -62,6 +62,5 @@
       <li>Health</li>
       <li>Technology</li>
       <li>Environment</li>
-      <li>Green party</li>
     </ul>
 @endsection
