@@ -15,6 +15,7 @@
         <li><a href="https://twitter.com/{{ $page->owner->twitter }}" target="_blank">My personal Twitter account</a></li>
         <li><a href="https://www.linkedin.com/in/james-malvern/" target="_blank">LinkedIn</a></li>
         <li><a href="https://github.com/{{ $page->owner->github }}" target="_blank">GitHub</a></li>
+        <li><a href="https://medium.com/@james.malvern" target="_blank">Medium</a></li>
     </ul>
 
     <p>Currently living and working in Berlin, Germany.</p>
