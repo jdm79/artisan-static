@@ -8,6 +8,5 @@ comments: true
 
 An interactive word cloud html page I created in R using wordcloud2 and rtweet,
 showing the frequency of words occurring in tweets about 5G in the week of 21-28 March, 2020.
-I'd been speaking to anti-5G protestors in my local area and discovered how insane (confused/scared/ignorant/naïve/duped) they actually were.
 
 [Click here](https://jdm79.github.io/fancy_word_clouds/5G_wordCloud.html) to watch it build.
