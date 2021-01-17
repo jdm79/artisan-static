@@ -1,5 +1,5 @@
 ---
-title: 'Mexico City, April 30th'
+title: 'Mexico City Derelict Buildings'
 date: 2019-04-30
 image: https://res.cloudinary.com/dlrwbckxi/image/upload/v1610839147/dfhor_gm5xi7.png
 comments: true
